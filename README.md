@@ -1,4 +1,4 @@
-# arvore_decisao
-implementação da técnica de ML decision tree com java sem o uso de bibliotecas.
-A árvore de decisão é uma estrutura de dados que permite o mapeamento de acontecimentou e/ou condições que geram resultados expecíficos, e por conta disso pode ser usada em altoritmos
-de Machine Learning em principalmente problemasa de regressão e classificação.
+# Árvore de decisão
+
+Implementação da técnica de Machine Learning Árvore de decisão. Cada nó da árvore recebe uma operação ou uma condição, sendo a primeira opção para modelos de regressão e a segunda para modelos de classificação. As folhas da árvore constituem a resposta, sendo a tomada de decisão da IA.
+A técnica foi desenvolvida em Java, sem o uso de bibliotecas.
